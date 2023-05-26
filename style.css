@@ -6,6 +6,7 @@ html{
 	line-height: 1.45;
 }
 body{
+	width: 100%;
 	padding: 25px;
 	margin: 30px;
 	background-color:#fff;
