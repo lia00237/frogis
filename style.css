@@ -6,8 +6,8 @@ html{
 	line-height: 1.45;
 }
 body{
-	padding: 30;
-	margin: 0 auto;
+	padding: 0;
+	margin: 20 auto;
 	background-color:#fff;
 	color:#333;
 	background-image: url(img/peach.jpg);
