@@ -71,10 +71,10 @@ main article ul li{
 
 li{
 	list-style-type:none;
-	font-family: Bahnschrift Condensed;
+	font-family: Segoe;
 }
 img {
-	border-radius: 0px;
+	border-radius: 50px;
 	
 }
 
