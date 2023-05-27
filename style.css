@@ -11,7 +11,7 @@ body{
 	margin: 30px;
 	background-color:#fff;
 	color:#000;
-	background-image: url(img/white (2).png);
+	background-image: url(img/whitte.png);
 	background-attachment: fixed;
 }
 
@@ -27,7 +27,7 @@ body>header h1{
 	margin:0;
 }
 body>header p{
-	font-size:19px;
+	font-size:30px;
 	margin:0;
 }
 main{
