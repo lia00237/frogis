@@ -9,3 +9,12 @@ const handle = () => {
   let button = document.querySelector('.button');
   button.addEventListener('click', handle);
   
+  document.addEventListener('DOMContentLoaded', () => {
+    new ItcSimpleSlider('.itcss', {
+      loop: true,
+      autoplay: false,
+      interval: 5000,
+      swipe: true,
+  });
+});
+  
