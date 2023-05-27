@@ -126,13 +126,7 @@ ol{
 }
 .Main-red{
 	color: rgb(175, 0, 0);
-	
-.header {
-	height: 20vh;
-	display:flex;
-	align-items:center;
-	justify-content:center;
-	}
+
 }
 
 .rev_black {
