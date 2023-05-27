@@ -1,5 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto|Roboto+Slab&amp;amp;amp;amp;display=swap);
-
+@import url(https://fonts.googleapis.com/css?family=Montserrat&display=swap);
 html{
 	font-family:"Montserrat", Tahoma, Verdana, Segoe, sans-serif;
 	font-size:18px	;
@@ -126,6 +126,13 @@ ol{
 }
 .Main-red{
 	color: rgb(175, 0, 0);
+	
+.header {
+	height: 20vh;
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	}
 }
 
 .rev_black {
