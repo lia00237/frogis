@@ -160,6 +160,26 @@ ol{
     font-size: 20px;
     margin-right: 15px;
 }
+.bx-wrapper {
+    width: 775px;
+}
+
+.slider-nav {
+    width: 775px;
+    display: flex; 
+}
+
+.slider-nav > div {
+    border: 3px solid #fff;
+}
+
+.slider-nav > div a {
+    cursor: pointer;
+}
+
+.slider-nav > div a.active {
+    border-bottom: 3px solid #000;
+}
 
 @media (max-width: 500px) {
   .container {
