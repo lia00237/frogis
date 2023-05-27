@@ -11,15 +11,15 @@ body{
 	margin: 30px;
 	background-color:#fff;
 	color:#000;
-	background-image: url(img/back.png);
+	background-image: url(img/white.png);
 	background-attachment: fixed;
 }
 
 
 body>header{
 	padding:20px 20px;
-	background-image: url(img/grey.jpg);
-	color:#000;
+	background-image: url(img/green.jpeg);
+	color:#fff;
 	
 }
 body>header h1{
